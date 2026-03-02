@@ -10,8 +10,8 @@ PIPELINE OVERVIEW
 step_01_parameter_extraction.py	-> Extracts upstream sequences and calculates average DNA ESp of each gene.
 step_02_iterative_screening.py	-> Performs an iterative percentile-based screening to define general and biological outlier profiles.
 step_03_anomaly_frequency.py		-> Aggregates the results of the screening and generates a trend analysis graph.
-step_04_multi_scoring.py		-> Calculates anomaly scores (weighted, cluster-based, and Z-score) for a specific threshold.
-step_05_combined_scoring.py		-> Computes a continuous combined score to rank gene candidates.
+step_04_multi_scoring.py		    -> Calculates anomaly scores (weighted, cluster-based, and Z-score) for a specific threshold.
+step_05_combined_scoring.py		  -> Computes a continuous combined score to rank gene candidates.
 
 CONTRIBUTING
 Please feel free to suggest improvements or report issues by opening a pull request.
