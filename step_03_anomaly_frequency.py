@@ -1,3 +1,6 @@
+# Copyright (c) 2026 Emanuele Selleri - University of Parma
+# Licensed under the MIT License
+#!/usr/bin/env python3
 import pandas as pd
 import os
 import glob
